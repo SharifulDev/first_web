@@ -1,5 +1,7 @@
 body {
   background-color: #ddd;
-  width: 960px;
+  width: 80%;
   text-align: center;
+  display: block;
+  margin: 0% 10% 0% 10%;
 }
